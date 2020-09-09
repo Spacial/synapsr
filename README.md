@@ -1,5 +1,5 @@
 <!--- FIXME: Pick an emoji! --->
-# 🌻 opensource-template
+# 🌻 SYNAPSR - SYNAPSR, Yet a New Advanced PasSword generatoR
 
 <!--- FIXME: Update crate and repo names here! --->
 [![Build Status](https://travis-ci.com/EmbarkStudios/tame-oauth.svg?branch=master)](https://travis-ci.com/EmbarkStudios/tame-oauth)
